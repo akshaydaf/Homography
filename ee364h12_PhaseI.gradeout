@@ -1,0 +1,60 @@
+Lab11/PhaseI/ee364h12
+
+
+----------------------------------------------------------------------------------------------------
+FUNCTION                              | DESCRIPTION                | COMMENTS                   | POINTS    
+----------------------------------------------------------------------------------------------------
+EffectEnumExists                                                    Test case passed.            2/2       
+EffectEnumMembers                      flipHorizontally             Test case passed.            0.5/0.5   
+EffectEnumMembers                      flipVertically               Test case passed.            0.5/0.5   
+EffectEnumMembers                      rotate180                    Test case passed.            0.5/0.5   
+EffectEnumMembers                      rotate270                    Test case passed.            0.5/0.5   
+EffectEnumMembers                      rotate90                     Test case passed.            0.5/0.5   
+EffectEnumMembers                      transpose                    Test case passed.            0.5/0.5   
+HomographyInitializerWithMatrix        Bad Matrix 1                 Test case passed.            0.5/0.5   
+HomographyInitializerWithMatrix        Bad Matrix 2                 Test case passed.            0.5/0.5   
+HomographyInitializerWithMatrix        Good Matrix                  Test case passed.            1/1       
+HomographyInitializerWithMatrix        Incorrect Parameter          Test case passed.            1/1       
+HomographyInitializerWithPoints        Bad Points                   Test case passed.            1/1       
+HomographyInitializerWithPoints        Good Points                  Test case passed.            1/1       
+HomographyInitializerWithPoints        Incorrect Parameter 1        Test case passed.            0.5/0.5   
+HomographyInitializerWithPoints        Incorrect Parameter 2        Test case passed.            0.5/0.5   
+HomographyInitializerWithPointsAndEffect Good Effect 1                Test case passed.            1/1       
+HomographyInitializerWithPointsAndEffect Good Effect 2                Test case passed.            1/1       
+HomographyInitializerWithPointsAndEffect Incorrect Type               Test case passed.            1/1       
+TransformationInitializer              Bad Homography               Test case passed.            1/1       
+TransformationInitializer              Bad Image                    Test case passed.            1/1       
+TransformationInitializer              Good Homography              Test case passed.            1/1       
+TransformationInitializer              Good Image 1                 Test case passed.            1/1       
+TransformationInitializer              Good Image 2                 Test case passed.            1/1       
+colorTransformationInitializer         Bad Homography               Test case passed.            0.5/0.5   
+colorTransformationInitializer         Bad Image Dimensions         Test case passed.            0.5/0.5   
+colorTransformationInitializer         Bad Image Type               Test case passed.            1/1       
+colorTransformationInitializer         Good Homography              Test case passed.            1/1       
+colorTransformationInitializer         Good Image 1                 Test case passed.            1/1       
+colorTransformationInitializer         Good Image 2                 Test case passed.            1/1       
+computeHomography                                                   Test case passed.            3/3       
+transformImageColor                    Color No Effect              Test case passed.            5/5       
+transformImageColor                    Color flipHorizontally       Test case passed.            5/5       
+transformImageColor                    Color flipVertically         Test case passed.            5/5       
+transformImageColor                    Color rotate180              Test case passed.            5/5       
+transformImageColor                    Color rotate270              Test case passed.            5/5       
+transformImageColor                    Color rotate90               Test case passed.            5/5       
+transformImageColor                    Color transpose              Test case passed.            5/5       
+transformImageGray                     Gray No Effect               Test case passed.            5/5       
+transformImageGray                     Gray flipHorizontally        Test case passed.            5/5       
+transformImageGray                     Gray flipVertically          Test case passed.            5/5       
+transformImageGray                     Gray rotate180               Test case passed.            5/5       
+transformImageGray                     Gray rotate270               Test case passed.            5/5       
+transformImageGray                     Gray rotate90                Test case passed.            5/5       
+transformImageGray                     Gray transpose               Test case passed.            5/5       
+transformImageWhenImageIsBad           Bad Type                     Test case passed.            3/3       
+----------------------------------------------------------------------------------------------------
+
+Total Score = 100.0
+
+===Extra Credit===
+A Effect:       0
+V Effect:       0
+Performance:    0
+Video:          0
